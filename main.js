@@ -1,1 +1,1 @@
-alert("hola, dame tu nombre);
+alert("hola, dame tu nombre");
